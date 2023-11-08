@@ -1,0 +1,62 @@
+.center {
+    text-align: center;
+    font-size: 48px;
+    margin-top: 130px;
+}
+.margin {
+    margin: 3px 200px;
+    font-style: italic;
+    font-size: 25px;
+}
+.sodejanie {
+     margin-left: 161px;
+     margin-bottom: 40px;
+     margin-top: 40px;
+}
+.programma {
+    margin: 3px 200px;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.mnogotexta {
+    margin-left: 161px;
+    margin-right: 100px;
+    font-size: 25px;
+}
+.monochirini {
+    margin-left: 121px;
+    font-size: 20px;
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+.codepodh {
+    margin-left: 161px;
+    font-size: 25px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.center_bloka {
+    margin-left: 100px;
+    overflow: hidden;
+    white-space: normal;
+    word-wrap: break-word;
+}
+.italic {
+    font-style: italic;
+    margin-left: 161px;
+    margin-right: 100px;
+    font-size: 25px;
+    margin-bottom: 500px;
+}
+.cherta {
+    border-top: 2px solid rgba(45, 45, 45, 0.526);
+    margin: 20px 0;
+    width: 75%;
+    margin-left: 12.5%;
+}
+
+
